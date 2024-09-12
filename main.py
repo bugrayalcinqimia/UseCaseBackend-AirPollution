@@ -4,8 +4,8 @@ from utils import *
 from fastapi.encoders import jsonable_encoder
 from validations import *
 
-API_KEY = "mysecretapikey"  # Change this to your actual API key
-API_KEY_NAME = "access_token"  # This will be the key clients provide
+API_KEY = "mysecretapikey" 
+API_KEY_NAME = "access_token" 
 app = FastAPI()
 
 # Define the API key header
