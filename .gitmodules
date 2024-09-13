@@ -1,0 +1,4 @@
+[submodule "UseCaseBackend-AirPollution"]
+	branch = main
+[submodule "UseCaseFrontend-SWCotD"]
+	branch = main
